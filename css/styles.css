@@ -1,0 +1,24 @@
+@media only screen and (max-width: 1024px) {
+    body {
+      background-color: rgb(100, 69, 212);
+    }
+    h{
+        color:brown;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    body {
+      background-color: rgb(238, 87, 187);
+    }
+    h{
+        color:blue;
+    }
+  }
+  @media only screen and (max-width: 580px) {
+    body {
+      background-color: rgb(73, 175, 209);
+    }
+    h{
+        color:black;
+    }
+  }
